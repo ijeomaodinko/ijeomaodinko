@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Front-end projects 
 - 📫 How to reach me: https://www.linkedin.com/in/ijeoma-odinko 
+                      email:pureblog09@gmail.com
 - ⚡ Fun fact: Amazing world. 
 
 
