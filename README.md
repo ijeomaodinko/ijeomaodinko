@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Front-end projects 
 - 📫 How to reach me: https://www.linkedin.com/in/ijeoma-odinko 
                       email:pureblog09@gmail.com
-- ⚡ Fun fact: Amazing world. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ijeomaodinko)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ijeoma-odinko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Iodinko)  
